@@ -1,21 +1,24 @@
+background-color: rgb(0,0,0)
+
 h1 {
  color: purple; 
 }
 
 .flex-container {
   display: flex;
-  background-color: DodgerBlue;
+  background-color: rgb(80,80,80);
+  justify-content: space-between;
 }
 
 .flex-container > header {
-  background-color: #f1f1f1;
+  background-color: rgb(232,232,232);
   margin: 10px;
   padding: 20px;
   font-size: 30px;
 }
 
 .flex-container > section {
-  background-color: #f1f1f1;
+  background-color: rgb(232,232,232);
   margin: 10px;
   padding: 20px;
   font-size: 30px;
