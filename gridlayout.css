@@ -147,23 +147,6 @@ h1 {
   margin: 0px;
 }
 
-.firstpage {
-  color: rgb(255,255,255);
-}
-
-.secondpage {
-  color: rgb(255,255,255);
-}
-
-.thirdpage {
-  color: rgb(255,255,255);
-}
-
-.vitruvian {
-  float: right;
-  width: 500px;
-}
-
 .copyright {
   color: rgb(255,255,255);
   text-align: left;
@@ -182,7 +165,6 @@ h1 {
   font-size:15px;
   color: rgb(255,255,255);
 }
-
 
 .secret {
   color: rgb(255,255,255);
